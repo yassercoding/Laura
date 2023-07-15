@@ -1287,7 +1287,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/footer-bg.jpg") top center no-repeat;
+  background: url("../img/testimonial.jpg") top center no-repeat;
   background-size: cover;
   color: #fff;
   font-size: 14px;
@@ -1321,8 +1321,8 @@ section {
 }
 
 #footer p {
-  font-size: 15;
-  font-style: italic;
+  font-size: 20px;
+  font-family: cursive;
   padding: 0;
   margin: 0 0 40px 0;
 }
@@ -1359,3 +1359,5 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+
