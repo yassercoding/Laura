@@ -355,7 +355,7 @@ h6 {
 #hero h2 {
   color: #eee;
   margin-bottom: 50px;
-  font-size: 13px;
+  font-size: 18px;
   font-weight: 500;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -682,6 +682,7 @@ section {
 
 .resume .resume-item ul {
   padding-left: 20px;
+  text-align: justify;
 }
 
 .resume .resume-item ul li {
@@ -1360,4 +1361,22 @@ section {
   font-size: 13px;
 }
 
+/* BUTTON */
 
+.btn {
+
+  background-color:rgba(255, 255, 255, 0.524);
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: black;
+  padding: 20px 20px;
+  margin-bottom: 20px;
+  border-radius: 5000px;
+  transition: all 0.3s;
+
+}
+
+.btn:hover {
+  transform: scale(1.15);
+}
